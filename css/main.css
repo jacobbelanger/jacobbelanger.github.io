@@ -1,0 +1,79 @@
+@media only screen and (min-width: 200px) {
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 6rem;
+    padding-left: 6rem; } }
+
+@media only screen and (max-width: 600px) {
+  #gmap_canvas {
+    width: 100%; }
+  .mt-2 {
+    width: 50%;
+    margin-left: 25%; } }
+
+#location {
+  text-align: center; }
+
+.nav-link:link {
+  color: red; }
+
+.nav-link:hover {
+  background-color: #34495e; }
+
+.hr {
+  border-top: 3px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 3px solid rgba(0, 0, 0, 0.1);
+  width: 20px; }
+
+.mission {
+  width: 90%;
+  margin-left: 3rem; }
+
+#chooseus {
+  color: darkred; }
+
+#chooseustitle {
+  padding-top: 2%; }
+
+h2 {
+  padding: 2%;
+  background-color: darkred;
+  color: white; }
+
+div.col.align-self-start,
+div.col.align-self-center,
+div.col.align-self-end {
+  font-size: 25px;
+  color: #f3d3d3; }
+
+#alert {
+  text-align: center;
+  font-size: 30px; }
+
+h3 {
+  color: black; }
+
+body > div > div.row.mt-5 > div:nth-child(2) > div > div > p {
+  color: darkred; }
+
+a {
+  color: white; }
+
+h3 {
+  text-align: center; }
+
+.p1 {
+  text-align: center; }
+
+.jumbotron {
+  margin-top: 40px; }
+
+.display-4 {
+  text-align: center;
+  padding-bottom: 20px; }
+
+.lead {
+  padding-bottom: 20px; }
+
+h5 {
+  font-size: 30px;
+  text-align: center; }
